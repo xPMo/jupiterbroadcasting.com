@@ -10,4 +10,15 @@ comms_type = "network"
 direct_link = ""
 +++
 
-https://kiwiirc.com/client/irc.geekshed.net/?nick=JBLive_?&theme=cli#jupiterbroadcasting
+# IRC
+
+Join with your favorite client:
+
+- Server: [`irc.geekshed.net`][geekshed]
+- Channel: `#jupiterbroadcasting`
+
+[Join now with Kiwi IRC.][kiwi]
+
+
+[kiwi]: https://kiwiirc.com/client/irc.geekshed.net/?nick=JBLive_?&theme=cli#jupiterbroadcasting
+[geekshed]: http://www.geekshed.net
